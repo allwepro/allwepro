@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 1</h1>
+<h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">Some random guy who makes random stuff.</h3>
 
 - 🔭 I’m currently working on **some own projects**
